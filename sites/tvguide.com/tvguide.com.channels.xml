@@ -426,7 +426,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012275" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3503226541.png">Mega TV HDTV Channel 405</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012310" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-586905461.png">WNYW</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012336" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-793395138.png">De Película</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012343" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5555632935.png">E! Entertainment Television (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012343" logo="https://raw.githubusercontent.com/festy1986/epg/refs/heads/master/E!.png">E! Entertainment Television (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012344" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4295053493.png">The Filipino Channel (West)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012351" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433040395.png">ESPN2</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012352" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1395727932.png">Music Choice Y2K</channel>
@@ -613,7 +613,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200019823" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433373870.png">DTV Cinema HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200019830" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433378714.png">DTV Cinema</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200019847" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4386470980.png">Science</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200019858" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4679385702.png">GSN (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200019858" logo="https://github.com/festy1986/epg/blob/master/GSN.png?raw=true">GSN (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200019861" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4546696964.png">Inspirational Network East</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200019898" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5869633749.png">New England Sports Network HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200019959" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433490855.png">Arirang Korean TV</channel>
@@ -817,7 +817,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233003770" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433734610.png">Women&apos;s Entertainment HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233003777" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433735733.png">Mid-Atlantic Sports Network HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233003785" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6599329199.png">HBO Comedy HDTV (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233003794" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-473245274.png">E! Entertainment Television HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233003794" logo="https://raw.githubusercontent.com/festy1986/epg/refs/heads/master/E!.png">E! Entertainment Television HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233003805" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433076144.png">Showtime Showcase (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233003860" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3457344620.png">FanDuel Sports Network West HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233003866" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-735421806.png">Turner Classic Movies HDTV</channel>
