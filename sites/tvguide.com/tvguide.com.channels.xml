@@ -67,7 +67,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="Reelz.us" site_id="9100001138#9200011769">ReelzChannel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="Science.us" site_id="9100001138#9200019847">Science</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="Showtime2East.us" site_id="9100001138#9200018178">Showtime 2 (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeEast.us" site_id="9100001138#9200016599">Showtime (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeEast.us" site_id="9100001138#9200016599">Paramount+ with SHOWTIME (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="SmithsonianChannelEast.us" site_id="9100001138#9233002112">Smithsonian Channel (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="StarzEast.us" site_id="9100001138#9233013809">Starz (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="StarzEncoreEast.us" site_id="9100001138#9200009649">STARZ ENCORE (East)</channel>
@@ -75,15 +75,15 @@
   <channel site="tvguide.com" lang="en" xmltv_id="SyfyEast.us" site_id="9100001138#9200004316">Syfy (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="TBSEast.us" site_id="9100001138#9233000403">TBS Superstation (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="TCMEast.us" site_id="9100001138#9200017928">Turner Classic Movies</channel>
-  <channel site="tvguide.com" lang="es" xmltv_id="TelemundoEast.us" site_id="9100001138#9200011857">Telemundo Network (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="TheCW.us" site_id="9100001138#9233011398">The CW</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TheCW.us" site_id="9100001138#9233011398">CW</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="TheMovieChannelEast.us" site_id="9100001138#9233015305">The Movie Channel (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="TLCEast.us" site_id="9100001138#9233004112">The Learning Channel (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="TNTEast.us" site_id="9100001138#9233011830">Turner Network Television (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="truTVEast.us" site_id="9100001138#9200009547">truTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="TVLandEast.us" site_id="9100001138#9233005468">TV Land (East)</channel>
-  <channel site="tvguide.com" lang="es" xmltv_id="UnivisionEast.us" site_id="9100001138#9200000867">Univisión Network (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="USANetworkEast.us" site_id="9100001138#9233004106">USA Network (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="VH1East.us" site_id="9100001138#9233000037">VH1 (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="WeTVEast.us" site_id="9100001138#9200018188">Women's Entertainment Network (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="WeTVEast.us" site_id="9100001138#9200018188">Women&apos;s Entertainment Network (East)</channel>
+  <channel site="tvguide.com" lang="es" xmltv_id="TelemundoEast.us" site_id="9100001138#9200011857">Telemundo Network (East)</channel>
+  <channel site="tvguide.com" lang="es" xmltv_id="UnivisionEast.us" site_id="9100001138#9200000867">Univisión Network (East)</channel>
 </channels>
