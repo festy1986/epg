@@ -58,7 +58,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000980" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5051222200.png">Space City Home Network HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000985" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4434298353.png">Carousel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000999" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-819445478.png">Hustler &amp; Playboy TV Offers</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200001026" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3661741626.png">FX Movie Channel HDTV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200001026" logo="https://github.com/festy1986/epg/blob/master/FXM.png?raw=true">FX Movie Channel HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200001097" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3428243690.png">STARZ ENCORE Black (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200001124" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4736526985.png">NBC Sports California Alternate HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200001140" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1852640024.png">FanDuel Sports Network Extra 2 Alternate HDTV DirecTV</channel>
@@ -494,7 +494,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200014847" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4434262682.png">XTRA Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200014847" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4434262682.png">XTRA Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200014892" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4434903380.png">Vivid TV Monthly Offer</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200014910" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-704773187.png">FXX HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200014910" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-704773187.png">X HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200014917" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1863866692.png">Nick Jr. HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200015016" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4435346302.png">FanDuel Sports Network Extra Alternate DirecTV (South)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200015017" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3321280628.png">FanDuel Sports Network Extra Alternate DirecTV (Southwest)</channel>
@@ -1119,7 +1119,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013937" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4434342009.png">Commercial Special Events</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013937" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4434342009.png">Commercial Special Events</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013937" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4434342009.png">Commercial Special Events</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013967" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3661741626.png">FX Movie Channel</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013967" logo="https://github.com/festy1986/epg/blob/master/FXM.png?raw=true">FX Movie Channel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013998" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1395765639.png">Music Choice Easy Listening</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013998" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1395765639.png">Music Choice Easy Listening</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233014077" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1852640024.png">FanDuel Sports Network Extra 2 Alternate DirecTV (South)</channel>
