@@ -8,37 +8,48 @@ dayjs.extend(timezone)
 
 module.exports = {
   site: 'tvguide.com',
+  delay: 5000,
   days: 2,
   url: function ({ date, channel }) {
     const [providerId, channelSourceIds] = channel.site_id.split('#')
-    const url = `https://backend.tvguide.com/tvschedules/tvguide/serviceprovider/${providerId}/web?start=${date
+    const url = `https://backend.tvguide.com/tvschedules/tvguide/${providerId}/web?start=${date
       .startOf('d')
-      .unix()}&duration=1440&channelSourceIds=${channelSourceIds}`
+      .unix()}&duration=1200&channelSourceIds=${channelSourceIds}`
 
     return url
   },
+  request: {
+    method: 'GET',
+    headers: function() {
+      return setHeaders()
+    }
+  },
   async parser({ content }) {
-    const programs = []
-    const items = parseItems(content)
+    const programs = [];
+    const items = parseItems(content);
     for (let item of items) {
-      const details = await loadProgramDetails(item)
+      // const details = await loadProgramDetails(item)
+      // programs.push({
+      //   title: item.title,
+      //   sub_title: details.episodeTitle,
+      //   description: details.description,
+      //   season: details.seasonNumber,
+      //   episode: details.episodeNumber,
+      //   rating: parseRating(item),
+      //   categories: parseCategories(details),
+      //   start: parseTime(item.startTime),
+      //   stop: parseTime(item.endTime)
+      // })
       programs.push({
         title: item.title,
-        sub_title: details.episodeTitle,
-        description: details.description,
-        season: details.seasonNumber,
-        episode: details.episodeNumber,
-        rating: parseRating(item),
-        categories: parseCategories(details),
         start: parseTime(item.startTime),
         stop: parseTime(item.endTime)
       })
     }
-
     return programs
   },
   async channels() {
-    const providers = [9100002825]
+    const providers = [9100001138]
 
     let channels = []
     for (let providerId of providers) {
@@ -49,7 +60,7 @@ module.exports = {
         .then(r => r.data)
         .catch(console.log)
 
-      data.data.items.forEach(item => {
+      data.data.items.forEach(item => {        
         channels.push({
           lang: 'en',
           site_id: `${providerId}#${item.sourceId}`,
@@ -83,14 +94,23 @@ function parseItems(content) {
 }
 
 async function loadProgramDetails(item) {
-  item.programDetails = item.programDetails.replace('player1-backend-prod-internal.apigee.net', 'internal-prod.apigee.fandom.net')
   const data = await axios
-    .get(item.programDetails)
-    .then(r => r.data)
+    .get(item.programDetails, {
+        headers: function() {
+          return setHeaders()
+        }
+    }).then(r => r.data)
     .catch(err => {
       console.log(err.message)
-    })
+    });
   if (!data || !data.data || !data.data.item) return {}
 
   return data.data.item
+}
+
+function setHeaders() {
+  return {
+    'Referer': 'https://www.tvguide.com/',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+  }
 }
