@@ -13,7 +13,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000075" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-7140066465.png">Cable Satellite Public Affairs Network 2</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000134" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4375453268.png">Trinity Broadcasting Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000139" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433420090.png">New Shopping Service</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000143" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1091978519.png">Cinemax HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000143" logo="https://github.com/festy1986/epg/blob/master/cinemax.png?raw=true">Cinemax HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000182" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433447815.png">The BUZZ</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000182" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433447815.png">The BUZZ</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000185" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6127667702.png">De Película Clásico</channel>
@@ -38,7 +38,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000630" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-7971928572.png">VICE HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000650" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5337102239.png">NBC Sports Boston Plus Overflow Part Time HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000652" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1453364263.png">HBO (West)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000657" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1100753165.png">Comedy Central (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000657" logo="https://github.com/festy1986/epg/blob/master/comedy%20central.png?raw=true">Comedy Central (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000664" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-11015143387.png">Magnolia Network HDTV [East]</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000682" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3984176918.png">Univision Network HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200000686" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-9321753609.png">Big Ten Network HDTV (24/7 Overflow #4)</channel>
@@ -82,7 +82,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200002222" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433378588.png">DTV Cinema HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200002243" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-8498404355.png">Investigation Discovery</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200002283" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-380624266.png">NFL Sunday Ticket HDTV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200002286" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1091978519.png">Cinemax HDTV (West)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200002286" logo="https://github.com/festy1986/epg/blob/master/cinemax.png?raw=true">Cinemax HDTV (West)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200002362" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433491583.png">DTV Cinema</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200002363" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-760126433.png">Canal 22 Internacional</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200002418" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433612419.png">Vremya</channel>
@@ -216,7 +216,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200006397" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433612492.png">FanDuel Sports Network Great Lakes HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200006481" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-7865764963.png">MBN Plus</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200006523" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-625866521.png">ESPN News HDTV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200006529" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-652082265.png">More Max HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200006529" logo="https://github.com/festy1986/epg/blob/master/cinemax%20moremax.png?raw=true">More Max HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200006533" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6009706967.png">HBO 2 HDTV (West)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200006559" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433773336.png">Russia Today (North America)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200006570" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-9813359907.png">Trinity Broadcasting Network HDTV</channel>
@@ -311,11 +311,11 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009045" logo="https://github.com/festy1986/epg/blob/master/a&eextra.png?raw=trueg">A&amp;E Network HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009124" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-7783077810.png">Fox Business Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009133" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4675958426.png">USA Network HDTV (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009145" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-657673575.png">Consumer News &amp; Business Channel HDTV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009145" logo="https://github.com/festy1986/epg/blob/master/cnbc.png?raw=true">Consumer News &amp; Business Channel HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009198" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-643747519.png">The Movie Channel Xtra HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009199" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433773070.png">FanDuel Sports Network Ohio (Cleveland) HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009200" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-380624266.png">NFL Sunday Ticket HDTV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009215" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5363471243.png">Crime and Investigation Network HDTV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009215" logo="https://github.com/festy1986/epg/blob/master/crime%20&%20investigation.png?raw=true">Crime and Investigation Network HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009218" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433798629.png">DTV Cinema HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009223" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433798955.png">MLB Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009245" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433076252.png">Destination America</channel>
@@ -332,7 +332,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009366" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1963341087.png">Nickelodeon (West)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009383" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3661400971.png">Showtime Women HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009401" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-9321753609.png">Big Ten Network HDTV (24/7 Overflow #1)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009413" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-657673575.png">Consumer News &amp; Business Channel</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009413" logo="https://github.com/festy1986/epg/blob/master/cnbc.png?raw=true">Consumer News &amp; Business Channel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009420" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6915946934.png">SBS International</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009425" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1415795823.png">FM HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200009486" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3585282627.png">STARZ ENCORE Action HD (East)</channel>
@@ -415,7 +415,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012016" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1443166738.png">KBYU Brigham Young University TV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012058" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3452000978.png">STARZ InBlack HD (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012081" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-806224326.png">Gem Shopping Network</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012085" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4493978907.png">CMT (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012085" logo="https://github.com/festy1986/epg/blob/master/cmt.png?raw=true">CMT (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012088" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3607687659.png">Pasiones (USA)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012131" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433918748.png">FanDuel Sports Network Midwest</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9200012145" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5088990258.png">Oxygen HDTV</channel>
@@ -689,7 +689,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233000110" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433612476.png">YTN Radio Korea</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233000146" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6901339702.png">SBS Plus</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233000161" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-8023715348.png">FYI HDTV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233000169" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4493978907.png">CMT HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233000169" logo="https://github.com/festy1986/epg/blob/master/cmt.png?raw=true">CMT HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233000175" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-9237817939.png">HBO Family HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233000192" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1440696053.png">DirecTV/MLS Direct Kick HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233000192" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1440696053.png">DirecTV/MLS Direct Kick HDTV</channel>
@@ -902,8 +902,8 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233006959" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-637310189.png">FX HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233006961" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3535297007.png">IFC HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233006969" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1105586490.png">Fox News Channel HDTV (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233006971" logo="https://github.com/festy1986/epg/blob/master/action%20max.png?raw=true">ActionMAX HDTV (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233006977" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-803256220.png">Five Star Max HDTV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233006971" logo="https://github.com/festy1986/epg/blob/master/cinemax%20action.png?raw=true">ActionMAX HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233006977" logo="https://github.com/festy1986/epg/blob/master/cinemax%205%20starmax.png?raw=true">Five Star Max HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233006987" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433798428.png">Phoenix InfoNews</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233007008" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433814998.png">America&apos;s Value Channel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233007019" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1064100494.png">MTV HDTV (West)</channel>
@@ -937,11 +937,11 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008051" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-7355895455.png">NTV America</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008085" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433612367.png">MOR 101.9 Music</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008108" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5355325189.png">Comcast SportsNet Mid-Atlantic (ACC Overflow)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008130" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1101753112.png">Cable News Network HDTV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008130" logo="https://github.com/festy1986/epg/blob/master/cnn.png?raw=true">Cable News Network HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008131" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3428165999.png">STARZ ENCORE Westerns (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008142" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6585149188.png">Travel Channel HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008150" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-624124268.png">Disney XD HDTV (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008156" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433769926.png">ThrillerMAX HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008156" logo="https://github.com/festy1986/epg/blob/master/cinemax%20thrillermax.png?raw=true">ThrillerMAX HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008160" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6010163497.png">HBO Signature (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008166" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-380624266.png">NFL Sunday Ticket HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233008200" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4611075547.png">Baby TV (Latin America)</channel>
@@ -986,12 +986,12 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009491" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6516412812.png">HBO Zone HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009496" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-822154750.png">ESPNU HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009507" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-380624266.png">NFL Sunday Ticket HDTV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009509" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1100753165.png">Comedy Central HDTV (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009512" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3783440668.png">Cable News Network International</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009509" logo="https://github.com/festy1986/epg/blob/master/comedy%20central.png?raw=true">Comedy Central HDTV (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009512" logo="https://github.com/festy1986/epg/blob/master/cnn.png?raw=true">Cable News Network International</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009520" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433798635.png">DTV Cinema HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009567" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433829591.png">FanDuel Sports Network Southwest HDTV 24/7 (Main)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009593" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433848331.png">FanDuel Sports Network North HDTV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009621" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6570603921.png">Cinemax (West)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009621" logo="https://github.com/festy1986/epg/blob/master/cinemax.png?raw=true">Cinemax (West)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009640" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5276254591.png">Universal Kids HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009653" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-9321753609.png">Big Ten Network HDTV (24/7 Overflow #2)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009659" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4101478725.png">WBRE</channel>
@@ -1003,7 +1003,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009815" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5355325199.png">Comcast SportsNet Mid-Atlantic HDTV (ACC Overflow)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009825" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5046001431.png">Lifetime Movies (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009828" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1101802196.png">Cable News Network en Español (USA)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009829" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-6570603921.png">Cinemax (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009829" logo="https://github.com/festy1986/epg/blob/master/cinemax.png?raw=true">Cinemax (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233009840" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1395745030.png">Music Choice Mexicana</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233010015" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4435078164.png">Iglesia Ni Cristo Television DirecTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233010037" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1395540462.png">Music Choice Singers &amp; Swing</channel>
@@ -1082,7 +1082,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013189" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3604695152.png">TBN Inspire</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013190" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433378576.png">DTV Cinema HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013191" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433378685.png">DTV Cinema</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013235" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3452671162.png">CBS Sports Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013235" logo="https://github.com/festy1986/epg/blob/master/cbs%20sports%20network.png?raw=true">CBS Sports Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013248" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433413455.png">DTV Cinema</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013251" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-629411855.png">NewsNation SDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013260" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-643763221.png">The Movie Channel HDTV (East)</channel>
@@ -1106,7 +1106,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013809" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3462876291.png">Starz (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013810" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5622899876.png">Paramount Network (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013810" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5622899876.png">Paramount Network (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013812" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3783440668.png">Cable News Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013812" logo="https://github.com/festy1986/epg/blob/master/cnn.png?raw=true">Cable News Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013814" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-5417013683.png">Tr3s (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013815" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433040398.png">The Weather Channel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233013816" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433040432.png">FanDuel Sports Network Southwest</channel>
@@ -1158,7 +1158,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015369" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4123933297.png">ION DirecTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015383" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4712200868.png">NBC Sports California HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015438" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-9321753609.png">Big Ten Network HDTV (National)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015468" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-3452671162.png">CBS Sports Network HDTV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015468" logo="https://github.com/festy1986/epg/blob/master/cbs%20sports%20network.png?raw=true">CBS Sports Network HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015495" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-800535192.png">Showtime Extreme HDTV (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015496" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-380624266.png">NFL Sunday Ticket HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015501" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1064100494.png">MTV HDTV (East)</channel>
@@ -1178,7 +1178,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015725" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1805302302.png">NBC Sports Chicago Plus Full Time HDTV</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015734" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-768478973.png">Cartoon Network (West)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015740" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4434198140.png">Little Saigon Radio Channel</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015766" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-4433101884.png">More Max (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015766" logo="https://github.com/festy1986/epg/blob/master/cinemax%20moremax.png?raw=true">More Max (East)</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015768" logo="https://github.com/festy1986/epg/blob/master/american%20heroes.png?raw=true">American Heroes Channel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015786" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1395737242.png">Music Choice Pop &amp; Country</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="" site_id="9100002825#9233015789" logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1393806548.png">Music Choice Romances</channel>
