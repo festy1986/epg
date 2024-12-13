@@ -11,7 +11,7 @@ dayjs.extend(customParseFormat)
 
 module.exports = {
   site: 'tvpassport.com',
-  days: 3,
+  days: 2,
   url({ channel, date }) {
     return `https://www.tvpassport.com/tv-listings/stations/${channel.site_id}/${date.format(
       'YYYY-MM-DD'
@@ -19,7 +19,7 @@ module.exports = {
   },
   request: {
     headers: {
-      Cookie: 'cisession=e49ff13191d6875887193cae9e324b44ef85768d;'
+      Cookie: 'cisession=2286a90c4271966c2e5c4d34aac902e6d29ce85f;'
     }
   },
   parser: function ({ content }) {
@@ -39,7 +39,6 @@ module.exports = {
 
       programs.push({
         title,
-        sub_title,
         description: parseDescription($item),
         image: parseImage($item),
         category: parseCategory($item),
@@ -99,7 +98,8 @@ module.exports = {
 }
 
 function parseDescription($item) {
-  return $item('*').data('description')
+  const description = $item('*').data('description')
+  return description
 }
 
 function parseImage($item) {
