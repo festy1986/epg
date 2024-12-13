@@ -1,6 +1,8 @@
 name: EPG Update
 
 on:
+  schedule:
+    - cron: '0 */24 * * *' # Daily schedule
   workflow_dispatch:
 
 jobs:
@@ -24,14 +26,27 @@ jobs:
     - name: npm grab epg
       run: |
           npm install
-          # npm run grab -- --channels=sites/sports/in.channels.xml --days=7 --maxConnections=10 --gzip --output=guides/sports/in.xml
-          # npm run grab -- --site=tvguide.com --maxConnections=10 --output=guides/tvguide.com.xml
-          npm run grab -- --site=tvpassport.com --maxConnections=20 --output=guides/tvpassport.com.xml
-          # npm run grab -- --site=tvtv.us --maxConnections=10 --output=guides/tvtv.us.xml
+          npm run grab -- --site=sky.com --maxConnections=10 --gzip --output=guides/sky.com.xml
+          npm run grab -- --site=tvpassport.com --gzip --maxConnections=20 --output=guides/tvpassport.com.xml
+          npm run grab -- --site=player.ee.co.uk --maxConnections=10 --gzip --output=guides/player.ee.co.uk.xml
     - name: Commit changes
       run: |
         git config --local user.email "your-email@example.com"
         git config --local user.name "Your Name"
-        git add -f guides/tvpassport.com.xml
+        git add -f guides/dishtv.in_en.xml.gz
+        git add -f guides/dishtv.in_hi.xml.gz
+        git add -f guides/watch.tataplay.com.xml.gz
+        git add -f guides/distro.tv.xml.gz
+        git add -f guides/nowplayer.now.com.xml.gz
+        git add -f guides/foxtel.com.au.xml.gz
+        git add -f guides/beinsports.com_au-en.xml.gz
+        git add -f guides/starhubtvplus.com.xml.gz
+        git add -f guides/sky.com.xml.gz
+        git add -f guides/player.ee.co.uk.xml.gz
+        git add -f guides/sports/uk.xml.gz
+        git add -f guides/sports/in.xml.gz
+        git add -f guides/sports/au.xml.gz
+        git add -f guides/sports/fixturecalendar.com.xml.gz
+        git add -f guides/tvpassport.com.xml.gz
         git commit -m "Update xml"
         git push
