@@ -27,7 +27,7 @@ jobs:
       run: |
           npm install
           npm run grab -- --site=sky.com --maxConnections=10 --gzip --output=guides/sky.com.xml
-          npm run grab -- --site=tvpassport.com --gzip --maxConnections=20 --output=guides/tvpassport.com.xml
+          npm run grab -- --site=tvpassport.com --days=7 --maxConnections=50 --gzip --output=guides/tvpassport.com.xm
           npm run grab -- --site=player.ee.co.uk --maxConnections=10 --gzip --output=guides/player.ee.co.uk.xml
     - name: Commit changes
       run: |
