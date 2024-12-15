@@ -2145,10 +2145,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision-canada-hd/19654" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s102514_h9_aa.png">US: Univision Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="up-hd/7460" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s66143_h15_ac.png">US: UP HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="us-armenia/11160">US: US Armenia</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="usa-network--east-feed/640" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11207_h15_af.png">US: USA Network - East Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="usa-network--east-feed/640" logo="https://github.com/festy1986/epg/blob/master/logos/usa%20network.png?raw=true">US: USA Network - East Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="usa-network--hawaii/6065" logo="">US: USA Network - Hawaii</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="usa-network--pacific/2144" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11207_h15_af.png">US: USA Network - Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="usa-network-hd--east/5490" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58452_h15_af.png">US: USA Network HD - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="usa-network-hd--east/5490" logo="https://github.com/festy1986/epg/blob/master/logos/usa%20network.png?raw=true">US: USA Network HD - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="usa-network-hd--pacific/14523" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58452_h15_af.png">US: USA Network HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="usa-network-on-demand/6663" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s54584_h15_af.png">US: USA Network On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="v-hd/4884" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s15696_h15_ac.png">US: Noovo HD</channel>
@@ -2159,12 +2159,12 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="valu-tv/16189">US: Valu TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Motortrend.us" site_id="velocity-hd/12597" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s31046_h15_ab.png">US: Motor Trend HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Motortrend.us" site_id="velocity/2143" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s92052_h15_aa.png">US: Motor Trend</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="VH1East.us" site_id="vh1--eastern-feed/663" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11218_h15_ac.png">US: VH1 - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="VH1East.us" site_id="vh1--eastern-feed/663" logo="https://github.com/festy1986/epg/blob/master/logos/vh%201.png?raw=true">US: VH1 - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="VH1West.us" site_id="vh1--pacific-feed/1270" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11218_h15_ac.png">US: VH1 - Pacific Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="VH1East.us" site_id="vh1-hd--eastern/6204" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s60046_h15_aa.png">US: VH1 HD - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="VH1East.us" site_id="vh1-hd--eastern/6204" logo="https://github.com/festy1986/epg/blob/master/logos/vh%201.png?raw=true">US: VH1 HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="VH1West.us" site_id="vh1-hd--pacific-feed/16234" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s60046_h15_aa.png">US: VH1 HD - Pacific Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="VICETV.us" site_id="viceland-usa-hd/7300" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s104547_h9_ab.png">US: VICE HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="VICETV.us" site_id="viceland-usa/624" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18822_h15_ac.png">US: VICE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="VICETV.us" site_id="viceland-usa-hd/7300" logo="https://github.com/festy1986/epg/blob/master/logos/viceland.png?raw=true">US: VICE HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="VICETV.us" site_id="viceland-usa/624" logo="https://github.com/festy1986/epg/blob/master/logos/viceland.png?raw=true">US: VICE</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="video-on-demand/8101" logo="">US: Video On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="vietnamese-broadcasting-service/13314" logo="">US: Vietnamese Broadcasting Service</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="viewers-marketplace/513" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s31614_h15_ab.png">US: Viewer's Marketplace</channel>
@@ -2186,8 +2186,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="watc-tv-57/1713" logo="">US: WATC-TV 57</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wdnn/4761" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s62660_h15_ab.png">US: WDNN</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="we-hd/6220" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59296_h15_ab.png">US: WE HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WeTVEast.us" site_id="we-womens-entertainment--eastern/664" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16409_h15_ab.png">US: WE (Women's Entertainment) - Eastern</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WeTVWest.us" site_id="we-womens-entertainment--pacific/4171" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16409_h15_ab.png">US: WE (Women's Entertainment) - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WeTVEast.us" site_id="we-womens-entertainment--eastern/664" logo="https://github.com/festy1986/epg/blob/master/logos/we.png?raw=true">US: WE (Women's Entertainment) - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WeTVWest.us" site_id="we-womens-entertainment--pacific/4171" logo="https://github.com/festy1986/epg/blob/master/logos/we.png?raw=true">US: WE (Women's Entertainment) - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheWeatherNetwork.ca" site_id="weather-network-dv/3959" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10170_h15_aa.png">CA: Weather Network DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheWeatherNetwork.ca" site_id="weather-network-hd/9440" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10170_h15_aa.png">CA: Weather Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="weather-network-toronto-hd/19272" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10170_h15_aa.png">US: Weather Network (Toronto) HD</channel>
@@ -2198,8 +2198,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wfn-world-fishing-network/2414" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s63234_h15_aa.png">US: WFN-World Fishing Network</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NewsNationEast.us" site_id="newsnation-eastern-feed/65" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s91097_h15_ae.png">US: NewsNation - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NewsNationEast.us" site_id="newsnation-hd-eastern-feed/5882" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s91096_h15_ae.png">US: NewsNation HD - Eastern Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wgn-canada-hd/9530" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s51306_h15_ac.png">US: WGN Canada HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wgn-canada/4202" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s51306_h15_ac.png">US: WGN Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wgn-canada-hd/9530" logo="https://github.com/festy1986/epg/blob/master/logos/wgn9.png?raw=true">US: WGN Canada HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wgn-canada/4202" logo="https://github.com/festy1986/epg/blob/master/logos/wgn9.png?raw=true">US: WGN Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="whats-on/16390" logo="">US: What's On</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="white-rose-community-television/11368" logo="">US: White Rose Community Television</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wild-tv-hd/6781" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s66357_h15_ac.png">US: Wild TV HD</channel>
@@ -2210,9 +2210,9 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="world-picks-latino-on-demand/7706">US: World Picks Latino On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPIXDT1.us" site_id="wpix-new-york-superstation-hd/4794" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11779_h15_aa.png">US: WPIX New York (SUPERSTATION) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-247-on-demand/3991" logo="">US: WWE 24/7 On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-net-pak-canada/14230" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s90143_h15_aa.png">US: WWE Network (Canada)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-net-pak-hd-canada/14184" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s91306_h15_aa.png">US: WWE Network HD (Canada)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-net-pak-on-demand-canada/14183" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s90143_h15_aa.png">US: WWE Network On Demand (Canada)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-net-pak-canada/14230" logo="https://github.com/festy1986/epg/blob/master/logos/wwe.png?raw=true">US: WWE Network (Canada)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-net-pak-hd-canada/14184" logo="https://github.com/festy1986/epg/blob/master/logos/wwe.png?raw=true">US: WWE Network HD (Canada)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-net-pak-on-demand-canada/14183" logo="https://github.com/festy1986/epg/blob/master/logos/wwe.png?raw=true">US: WWE Network On Demand (Canada)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="yes-network-hd/4696" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s46275_h15_aa.png">US: YES Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ynn-buffalo-on-demand/10055">US: YNN Buffalo On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="yoopa-hd/7617" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s67449_h15_ac.png">US: Yoopa HD</channel>
@@ -2397,7 +2397,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TSN4.ca" site_id="tsn4/279" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s90122_h15_aa.png">CA: TSN4</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TSN5.ca" site_id="tsn5/278" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s90124_h15_aa.png">CA: TSN5</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TVOne.us" site_id="tv-one/2287" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s35513_h15_ab.png">US: TV One</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="UpTV.us" site_id="up/5911" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s44940_h15_ac.png">US: UP</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="UpTV.us" site_id="up/5911" logo="https://github.com/festy1986/epg/blob/master/logos/up.png?raw=true">US: UP</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="VisionTV.ca" site_id="vision-tv/17" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11220_h15_ab.png">CA: Vision TV Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCSHDT1.us" site_id="nbc-wcsh-portland-me/1191" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10991_h15_ad.png">US: NBC (WCSH) Portland, ME</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WGMEDT1.us" site_id="cbs-wgme-portland-me/2696" logo="https://github.com/festy1986/epg/blob/master/logos/cbs%20portland.png?raw=true">US: CBS (WGME) Portland, ME</channel>
