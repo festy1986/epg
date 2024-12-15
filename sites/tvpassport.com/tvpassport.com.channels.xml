@@ -45,10 +45,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amazing-facts-tv/15187" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s88163_h9_aa.png">US: Amazing Facts TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amc--canada-hd/8368" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s64831_h15_ac.png">US: AMC - Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amc--canada/3822" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s52247_h15_aa.png">US: AMC - Canada</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AMCEast.us" site_id="amc--eastern-feed-hd/6219" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s59337_h15_ab.png">US: AMC - Eastern Feed HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AMCEast.us" site_id="amc--eastern-feed/177" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10021_h15_ab.png">US: AMC - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AMCEast.us" site_id="amc--eastern-feed-hd/6219" logo="https://github.com/festy1986/epg/blob/master/logos/amc.png?raw=true">US: AMC - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AMCEast.us" site_id="amc--eastern-feed/177" logo="https://github.com/festy1986/epg/blob/master/logos/amc.png?raw=true">US: AMC - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amc-on-demand/9311" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s62677_h15_ab.png">US: AMC On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="american-heroes-channel-hd/10881" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s78808_h15_aa.png">US: American Heroes Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="american-heroes-channel-hd/10881" logo="https://github.com/festy1986/epg/blob/master/logos/american%20heroes.png?raw=true">US: American Heroes Channel HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="american-sports-network/14118" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s147367_h15_aa.png">US: The Nest</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amg-tv/6836" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55916_h9_aa.png">US: AMG-TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amga-tv-armenian/13328" logo="">US: amga TV (Armenian)</channel>
@@ -62,12 +62,12 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="AMP2.us" site_id="amp2/13283" logo="">US: AMP2</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AnimalPlanetHD.ca" site_id="animal-planet-canada-hd/10044" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s74041_h15_ad.png">CA: Animal Planet Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="animal-planet-caribbean/8362" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18649_h15_af.png">US: Animal Planet Caribbean English</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AnimalPlanetEast.us" site_id="animal-planet-us--east/645" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16331_h9_ad.png">US: Animal Planet US - East</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AnimalPlanetEastHD.us" site_id="animal-planet-us-hd--east/4537" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s57394_h9_ad.png">US: Animal Planet US HD - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AnimalPlanetEast.us" site_id="animal-planet-us--east/645" logo="https://github.com/festy1986/epg/blob/master/logos/animal%20planet.png?raw=true">US: Animal Planet US - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AnimalPlanetEastHD.us" site_id="animal-planet-us-hd--east/4537" logo="https://github.com/festy1986/epg/blob/master/logos/animal%20planet.png?raw=true">US: Animal Planet US HD - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="anime-network-on-demand/3632" logo="">US: Anime Network On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network-hd/17231" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s70248_h15_ac.png">US: Antenna - Network HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network/16820" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s70248_h15_ac.png">US: Antenna - Network</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna-wcsh-dt3-portland-me/18158" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s106838_h9_ad.png">US: Court TV (WCSH3) Portland, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network-hd/17231" logo="https://github.com/festy1986/epg/blob/master/logos/antena.png?raw=true">US: Antenna - Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network/16820" logo="https://github.com/festy1986/epg/blob/master/logos/antena.png?raw=true">US: Antenna - Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna-wcsh-dt3-portland-me/18158" logo="https://github.com/festy1986/epg/blob/master/logos/antena.png?raw=true">US: Court TV (WCSH3) Portland, ME</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aptn--east-dv/7593" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61998_h15_ac.png">US: APTN - East DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aptn--east/198" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61998_h15_ac.png">US: APTN - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aquarium-channel-hd/7820" logo="">US: Aquarium Channel HD</channel>
@@ -79,10 +79,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="avis-de-recherche/5950" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s45986_h15_aa.png">US: Avis de recherche</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axn-tv-hd/8876" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s72534_h15_ab.png">US: AXN TV HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axn-tv/8875" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17484_h15_ab.png">US: AXN TV - Mexico</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axs-tv-north-america-hd/12598" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s28506_h15_aa.png">US: AXS TV North America HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axs-tv-north-america/3972" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s28506_h15_aa.png">US: AXS TV North America</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axs-tv-usa-hd/20067" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s28506_h15_aa.png">US: AXS TV USA HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axs-tv-usa/20066" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s28506_h15_aa.png">US: AXS TV USA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axs-tv-north-america-hd/12598" logo="https://github.com/festy1986/epg/blob/master/logos/axs.png?raw=true">US: AXS TV North America HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axs-tv-north-america/3972" logo="https://github.com/festy1986/epg/blob/master/logos/axs.png?raw=true">US: AXS TV North America</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axs-tv-usa-hd/20067" logo="https://github.com/festy1986/epg/blob/master/logos/axs.png?raw=true">US: AXS TV USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="axs-tv-usa/20066" logo="https://github.com/festy1986/epg/blob/master/logos/axs.png?raw=true">US: AXS TV USA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="azteca-america--east/2142" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s33652_h15_aa.png">US: Azteca America - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="azteca-america-hd/13633" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s33652_h15_aa.png">US: Azteca America HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="baby-first-tv-hd/16414" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s50338_h15_ab.png">US: Baby First TV HD</channel>
@@ -92,8 +92,8 @@
   <channel site="tvpassport.com" lang="fr" xmltv_id="" site_id="bandes-annonces-super-ecran--sogetel/5973" logo="https://cdn.tvpassport.com/image/station/512x512/superecran.png">US: Bandes-annonces Super Ecran - Sogetel</channel>
   <channel site="tvpassport.com" lang="fr" xmltv_id="" site_id="bandes-annonces-super-ecran/5972" logo="https://cdn.tvpassport.com/image/station/512x512/superecran.png">US: Bandes-annonces Super Ecran</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bandes-annonces-viewers-choice/568" logo="">US: Bandes-annonces (Viewer's Choice)</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BBCAmericaEast.us" site_id="bbc-america--east-hd/11121" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s64492_h15_aa.png">US: BBC America - East HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BBCAmericaEast.us" site_id="bbc-america--east/615" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18332_h15_aa.png">US: BBC America - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BBCAmericaEast.us" site_id="bbc-america--east-hd/11121" logo="https://github.com/festy1986/epg/blob/master/logos/bbc%20america.png?raw=true">US: BBC America - East HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BBCAmericaEast.us" site_id="bbc-america--east/615" logo="https://github.com/festy1986/epg/blob/master/logos/bbc%20america.png?raw=true">US: BBC America - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bbc-america-ondemand/6844" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18332_h15_aa.png">US: BBC America OnDemand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bbc-canada-east/415" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26827_h15_aa.png">US: BBC Canada East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bbc-earth-hd/3908" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s53128_h15_ac.png">US: BBC Earth HD</channel>
@@ -192,8 +192,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-us-college-sports-8/30936" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s89681_h15_aa.png">US: Bell: U.S. College Sports 8</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bell-us-college-sports/30937" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s89681_h15_aa.png">US: Bell: U.S. College Sports</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bet--canada/4386" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s45733_h15_ab.png">US: BET - Canada</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BETEast.us" site_id="bet--eastern-feed/323" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10051_h15_ad.png">US: BET - Eastern Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BETEast.us" site_id="bet-hd--eastern-feed/6205" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s63236_h15_ac.png">US: BET HD - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BETEast.us" site_id="bet--eastern-feed/323" logo="https://github.com/festy1986/epg/blob/master/logos/bet.png?raw=true">US: BET - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BETEast.us" site_id="bet-hd--eastern-feed/6205" logo="https://github.com/festy1986/epg/blob/master/logos/bet.png?raw=true">US: BET HD - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BETGospel.us" site_id="bet-gospel/6191" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16484_h15_ab.png">US: BET Gospel</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bet-her/6837" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14897_h15_ac.png">US: BET Her</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="BETJams.us" site_id="bet-jams/2113" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s30419_h15_ac.png">US: BET Jams</channel>
@@ -227,8 +227,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bravo-canada-hd/6797" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s73549_h15_ab.png">US: CTV Drama HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bravo-canada/59" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s15176_h15_ab.png">US: CTV Drama</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bravo-canada2/6798" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s15176_h15_ab.png">US: Capital Networks: CTV Drama</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BravoEast.us" site_id="bravo-usa--eastern-feed/646" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10057_h15_ab.png">US: Bravo USA - Eastern Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="BravoEast.us" site_id="bravo-usa-hd--eastern-feed/6120" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58625_h15_ab.png">US: Bravo USA HD - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BravoEast.us" site_id="bravo-usa--eastern-feed/646" logo="https://github.com/festy1986/epg/blob/master/logos/bravo.png?raw=true">US: Bravo USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BravoEast.us" site_id="bravo-usa-hd--eastern-feed/6120" logo="https://github.com/festy1986/epg/blob/master/logos/bravo.png?raw=true">US: Bravo USA HD - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="broadcast-news/496">US: Broadcast News</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="buenavision-tv-wbqm-ld/11046" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s122968_h15_aa.png">US: Story (WNWT-LD) New York, NY</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="buzzr-tv/15543" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s93430_h15_ab.png">US: Buzzr TV</channel>
@@ -2244,7 +2244,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="3ABNEnglish.us" site_id="three-angels-broadcasting-network/19066" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10002_h15_aa.png">US: Three Angels Broadcasting Network</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCSpark.ca" site_id="abc-spark/10281" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s75031_h15_aa.png">CA: ABC Spark</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AccuWeatherNOW.us" site_id="accuweather/6140" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s56193_h15_ab.png">US: AccuWeather</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="AmericanHeroesChannel.us" site_id="american-heroes-channel/2035" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s18284_h15_aa.png">US: American Heroes Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AmericanHeroesChannel.us" site_id="american-heroes-channel/2035" logo="https://github.com/festy1986/epg/blob/master/logos/american%20heroes.png?raw=true">US: American Heroes Channel</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="AnimalPlanet.ca" site_id="animal-planet-canada/472" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s26823_h15_ad.png">CA: Animal Planet Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ATNARYMusik.ca" site_id="ary-musik/13698" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s49688_h15_ab.png">CA: ARY Musik</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ATNARYNews.ca" site_id="ary-news/13699" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s109894_h15_aa.png">CA: ATN - ARY News</channel>
