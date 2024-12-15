@@ -16,7 +16,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wlvi-boston-ma-hd/7114" logo="https://github.com/festy1986/epg/blob/master/logos/cw.png?raw=true">US: CW (WLVI) Boston, MA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wlvi-boston-ma/1007" logo="https://github.com/festy1986/epg/blob/master/logos/cw.png?raw=true">US: CW (WLVI) Boston, MA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="cbs-wbz-boston-ma/134" logo="https://github.com/festy1986/epg/blob/master/logos/cbs%20boston.png?raw=true">US: CBS (WBZ) Boston, MA</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="cbs-wbz-boston-ma-dv/4037" logo="https://raw.githubusercontent.com/festy1986/epg/refs/heads/master/logos/cbs%20boston.png">US: CBS (WBZ) Boston. MA DV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="cbs-wbz-boston-ma-dv/4037" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10098_h15_ac.png">US: CBS (WBZ) Boston. MA DV</channel> DV</channel>
   <channel <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="cbs-wbz-boston-ma-hd/3653" logo="https://raw.githubusercontent.com/festy1986/epg/refs/heads/master/logos/cbs%20boston.png">US: CBS (WBZ) Boston, MA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="decades-wbz-dt2-boston-ma/15415" logo="https://github.com/festy1986/epg/blob/master/logos/cbs%20boston.png?raw=true">US: Start TV (WBZ-TV2) Boston, MA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="5-star-max--eastern/636" logo="https://github.com/festy1986/epg/blob/master/logos/cinemax%205%20starmax.png?raw=true">US: 5 Star Max - Eastern</channel>
