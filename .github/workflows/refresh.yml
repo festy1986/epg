@@ -26,10 +26,8 @@ jobs:
     - name: npm grab epg
       run: |
           npm install
-          npm run grab -- --site=player.ee.co.uk --days=7 --maxConnections=10 --gzip --output=guides/player.ee.co.uk.xml
-          npm run grab -- --site=sky.com --days=7 --maxConnections=10 --gzip --output=guides/sky.com.xml
           npm run grab -- --site=tvguide.com --gzip --output=guides/tvguide.com.xml
-          npm run grab -- --site=tvpassport.com --days=1 --maxConnections=50 --gzip --output=guides/tvpassport.com.xml
+          npm run grab -- --site=tvpassport.com --days=0 --maxConnections=50 --gzip --output=guides/tvpassport.com.xml
           
     - name: Commit changes
       run: |
