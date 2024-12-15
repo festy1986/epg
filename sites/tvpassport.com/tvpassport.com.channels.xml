@@ -67,7 +67,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="anime-network-on-demand/3632" logo="">US: Anime Network On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network-hd/17231" logo="https://github.com/festy1986/epg/blob/master/logos/antena.png?raw=true">US: Antenna - Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network/16820" logo="https://github.com/festy1986/epg/blob/master/logos/antena.png?raw=true">US: Antenna - Network</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna-wcsh-dt3-portland-me/18158" logo="https://github.com/festy1986/epg/blob/master/logos/court.png?raw=true>US: Court TV (WCSH3) Portland, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna-wcsh-dt3-portland-me/18158" logo="https://raw.githubusercontent.com/festy1986/epg/refs/heads/master/logos/court.png">US: Court TV (WCSH3) Portland, ME</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aptn--east-dv/7593" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61998_h15_ac.png">US: APTN - East DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aptn--east/198" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61998_h15_ac.png">US: APTN - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aquarium-channel-hd/7820" logo="">US: Aquarium Channel HD</channel>
