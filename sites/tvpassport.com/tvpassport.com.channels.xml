@@ -970,16 +970,16 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="FuseWest.us" site_id="fuse-tv-hd--pacific/17062" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14929_h15_ac.png">US: FUSE TV HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fusion-hd/11364" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s83173_h15_ab.png">US: Fusion HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fusion/11294" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s83173_h15_ab.png">US: Fusion</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FXMovieChannel.us" site_id="fx-movie-channel/1308" logo="https://github.com/festy1986/epg/blob/master/logos/FXM.png?raw=true">US: FX Movie Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXMovieChannel.us" site_id="fx-movie-channel/1308" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s70253_h15_aa.png">US: FX Movie Channel</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fx-networks-canada-hd/10027" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s73682_h15_aa.png">US: FX Networks Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fx-networks-canada-on-demand-hd/10029" logo="">US: FX Networks Canada On Demand HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fx-networks-canada-on-demand/10028" logo="">US: FX Networks Canada On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fx-networks-east-coast/652" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14321_h15_aa.png">US: FX Networks East Coast</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fx-networks-west-coast-hd/8989" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58574_h15_aa.png">US: FX Networks West Coast HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fxx-canada-hd/13401" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s87894_h15_aa.png">US: FXX Canada HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FXXEast.us" site_id="fxx-usa--eastern/1952" logo="https://github.com/festy1986/epg/blob/master/logos/fxx.png?raw=true">US: FXX USA - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXXEast.us" site_id="fxx-usa--eastern/1952" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17927_h15_aa.png">US: FXX USA - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FXXWest.us" site_id="fxx-usa--pacific/19080" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s17927_h15_aa.png">US: FXX USA - Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FXXEast.us" site_id="fxx-usa-hd--eastern/7506" logo="https://cdn.tvpassport.com/image/station/US: FXX USA HD - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXXEast.us" site_id="fxx-usa-hd--eastern/7506" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s66379_h9_aa.png">US: FXX USA HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FXXWest.us" site_id="fxx-usa-hd--pacific/19081" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s66379_h9_aa.png">US: FXX USA HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FYIEast.us" site_id="fyi-usa--eastern/1971" logo="https://github.com/festy1986/epg/blob/master/logos/fyi.png?raw=true">US: FYI USA - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FYIWest.us" site_id="fyi-usa--pacific/19082" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s16834_h15_aa.png">US: FYI USA - Pacific</channel>
@@ -2299,8 +2299,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxNewsChannel.us" site_id="fox-news/1083" logo="https://github.com/festy1986/epg/blob/master/logos/fox%20news.png?raw=true">US: Fox News</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxSportsRacing.us" site_id="fox-sports-racing/192" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s30189_h15_aa.png">US: Fox Sports Racing</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FX.ca" site_id="fx-networks-canada/10026" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s73681_h15_aa.png">CA: FX Networks Canada</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FXEast.us" site_id="fx-networks-east-coast-hd/6111" logo="https://github.com/festy1986/epg/blob/master/logos/fx.png?raw=true">US: FX Networks East Coast HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FXMovieChannel.us" site_id="fx-movie-channel-hd/8463" logo="https://github.com/festy1986/epg/blob/master/logos/FXM.png?raw=true">US: FX Movie Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXEast.us" site_id="fx-networks-east-coast-hd/6111" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58574_h15_aa.png">US: FX Networks East Coast HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXMovieChannel.us" site_id="fx-movie-channel-hd/8463" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s70253_h15_aa.png">US: FX Movie Channel HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FXWest.us" site_id="fx-networks-west-coast/1449" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14321_h15_aa.png">US: FX Networks West Coast</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FXX.ca" site_id="fxx-canada/13400" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s90948_h9_aa.png">CA: FXX Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="GINXEsportsTVCanada.ca" site_id="super-channel-4/4836" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s58885_h15_ad.png">CA: Ginx eSports TV Canada</channel>
