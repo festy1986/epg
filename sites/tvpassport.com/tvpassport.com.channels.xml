@@ -15,6 +15,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="buzzr-tv-wlvi-dt2-boston-ma/9716" logo="https://github.com/festy1986/epg/blob/master/logos/cw.png?raw=true">US: Buzzr TV (WLVI2) Boston, MA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wlvi-boston-ma-hd/7114" logo="https://github.com/festy1986/epg/blob/master/logos/cw.png?raw=true">US: CW (WLVI) Boston, MA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wlvi-boston-ma/1007" logo="https://github.com/festy1986/epg/blob/master/logos/cw.png?raw=true">US: CW (WLVI) Boston, MA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="cbs-wbz-boston-ma/134" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10098_h15_ac.png">US: CBS (WBZ) Boston, MA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="cbs-wbz-boston-ma-dv/4037" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10098_h15_ac.png">US: CBS (WBZ) Boston. MA DV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="cbs-wbz-boston-ma-hd/3653" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10098_h15_ac.png">US: CBS (WBZ) Boston, MA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="decades-wbz-dt2-boston-ma/15415" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s109454_h15_ab.png">US: Start TV (WBZ-TV2) Boston, MA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="5-star-max--eastern/636" logo="https://github.com/festy1986/epg/blob/master/logos/cinemax%205%20starmax.png?raw=true">US: 5 Star Max - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCEast.us" site_id="abc--eastern/1224" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10003_h15_ac.png">US: ABC - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCNewsLive.us" site_id="abc-news-live/36224" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s113380_h15_ab.png">US: ABC News Live</channel>
