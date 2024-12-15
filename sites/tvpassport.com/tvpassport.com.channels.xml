@@ -67,7 +67,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="anime-network-on-demand/3632" logo="">US: Anime Network On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network-hd/17231" logo="https://github.com/festy1986/epg/blob/master/logos/antena.png?raw=true">US: Antenna - Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network/16820" logo="https://github.com/festy1986/epg/blob/master/logos/antena.png?raw=true">US: Antenna - Network</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna-wcsh-dt3-portland-me/18158" logo="https://github.com/festy1986/epg/blob/master/logos/antena.png?raw=true">US: Court TV (WCSH3) Portland, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna-wcsh-dt3-portland-me/18158" logo="https://github.com/festy1986/epg/blob/master/logos/court.png?raw=true>US: Court TV (WCSH3) Portland, ME</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aptn--east-dv/7593" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61998_h15_ac.png">US: APTN - East DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aptn--east/198" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s61998_h15_ac.png">US: APTN - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aquarium-channel-hd/7820" logo="">US: Aquarium Channel HD</channel>
@@ -1390,16 +1390,16 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographic.ca" site_id="national-geographic-canada-hd/4162" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s54743_h15_ab.png">CA: National Geographic Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-hd-on-demand/8267" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24959_h15_ab.png">US: National Geographic HD On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-on-demand/4337">US: National Geographic On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicEast.us" site_id="national-geographic-us--eastern/657" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24959_h15_ab.png">US: National Geographic US - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicEast.us" site_id="national-geographic-us--eastern/657" logo="https://github.com/festy1986/epg/blob/master/logos/nat%20geo.png?raw=true">US: National Geographic US - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWest.us" site_id="national-geographic-us--pacific/10314" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s24959_h15_ab.png">US: National Geographic US - Pacific</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicEast.us" site_id="national-geographic-us-hd--eastern/4436" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s49438_h15_ab.png">US: National Geographic US HD - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicEast.us" site_id="national-geographic-us-hd--eastern/4436" logo="https://github.com/festy1986/epg/blob/master/logos/nat%20geo.png?raw=true">US: National Geographic US HD - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWest.us" site_id="national-geographic-us-hd--pacific/19084" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s49438_h15_ab.png">US: National Geographic US HD - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWild.ca" site_id="national-geographic-wild-canada-hd/11012" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s75451_h15_ad.png">CA: National Geographic Wild Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWild.ca" site_id="national-geographic-wild-canada/11011" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s75447_h15_ad.png">CA: National Geographic Wild Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-wild-hd-on-demand/14485">US: National Geographic Wild HD On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="national-geographic-wild-hd/9579" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s67331_h15_ab.png">US: National Geographic Wild HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="national-geographic-wild-hd/9579" logo="https://github.com/festy1986/epg/blob/master/logos/nat%20geo%20wild.png?raw=true">US: National Geographic Wild HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-wild-on-demand/14486">US: National Geographic Wild On Demand</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="national-geographic-wild/7537" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s66804_h15_ab.png">US: National Geographic Wild</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="national-geographic-wild/7537" logo="https://github.com/festy1986/epg/blob/master/logos/nat%20geo%20wild.png?raw=true">US: National Geographic Wild</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nature--knowledge-on-demand/8116">US: Nature &amp; Knowledge On Demand</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nba-league-pass-1-hd/15356" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55597_h15_ad.png">US: NBA League Pass 1 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nba-league-pass-1/15355" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s20810_h15_ad.png">US: NBA League Pass 1</channel>
@@ -1422,8 +1422,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nba-league-pass-9-hd/15374" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s55597_h15_ad.png">US: NBA League Pass 9 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nba-league-pass-9/15373" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s21049_h15_ad.png">US: NBA League Pass 9</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBATVCanada.ca" site_id="nba-tv-canada-tv-hd/3615" logo="https://github.com/festy1986/epg/blob/master/logofolder/nba%20tv.png?raw=true">CA: NBA TV Canada TV HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="nba-tv-usa-hd/5645" logo="https://github.com/festy1986/epg/blob/master/logofolder/nba%20tv.png?raw=true">US: NBA TV USA HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="nba-tv-usa/3116" logo="https://github.com/festy1986/epg/blob/master/logofolder/nba%20tv.png?raw=true">US: NBA TV USA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="nba-tv-usa-hd/5645" logo="https://github.com/festy1986/epg/blob/master/logos/nba%20tv.png?raw=true">US: NBA TV USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBATV.us" site_id="nba-tv-usa/3116" logo="https://github.com/festy1986/epg/blob/master/logos/nba%20tv.png?raw=true">US: NBA TV USA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCCentral.us" site_id="nbc--central/9912" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10991_h15_ad.png">US: NBC - Central</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCMountain.us" site_id="nbc--mountain/9913" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10991_h15_ad.png">US: NBC - Mountain</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCEast.us" site_id="nbc--network-eastern/1227" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10991_h15_ad.png">US: NBC - Network Eastern</channel>
@@ -1432,16 +1432,16 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nbc-sports-network/1386">US: NBC Sports Network</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCUniversoEast.us" site_id="nbc-universo--eastern-feed/1797" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s14791_h15_ab.png">US: NBC Universo - Eastern feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCUniversoEast.us" site_id="nbc-universo-hd--eastern/16418" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s91588_h15_ab.png">US: NBC Universo HD - Eastern</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="WCSHDT1.us" site_id="nbc-wcsh-portland-me-hd/4760" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10991_h15_ad.png">US: NBC (WCSH) Portland, ME HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCSHDT1.us" site_id="nbc-wcsh-portland-me-hd/4760" logo="https://github.com/festy1986/epg/blob/master/logos/nbc%20portland.png?raw=true">US: NBC (WCSH) Portland, ME HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ncw-life-channel/20073">US: NCW Life Channel</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="necn-hd/7723" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s66278_h15_ab.png">US: necn HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="necn/1013" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11000_h15_ab.png">US: necn</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="necn-hd/7723" logo="https://github.com/festy1986/epg/blob/master/logos/necn.png?raw=true">US: necn HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="necn/1013" logo="https://github.com/festy1986/epg/blob/master/logos/necn.png?raw=true">US: necn</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-brunswick-legislature-french/4031" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s52341_h9_aa.png">US: New Brunswick Legislature-French</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-brunswick-legislature/4030" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s52341_h9_aa.png">US: New Brunswick Legislature</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-england-sports-network-hd/3600" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s35038_h15_ac.png">US: New England Sports Network HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-england-sports-network-plus-hd/15024" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s63516_h15_ab.png">US: New England Sports Network Plus HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-england-sports-network-plus/14779" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s63198_h15_ac.png">US: New England Sports Network Plus</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-england-sports-network/1015" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s10996_h15_ac.png">US: New England Sports Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-england-sports-network-hd/3600" logo="https://github.com/festy1986/epg/blob/master/logos/nesn.png?raw=true">US: New England Sports Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-england-sports-network-plus-hd/15024" logo="https://github.com/festy1986/epg/blob/master/logos/nesn%20plus.png?raw=true">US: New England Sports Network Plus HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-england-sports-network-plus/14779" logo="https://github.com/festy1986/epg/blob/master/logos/nesn%20plus.png?raw=true">US: New England Sports Network Plus</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-england-sports-network/1015" logo="https://github.com/festy1986/epg/blob/master/logos/nesn.png?raw=true">US: New England Sports Network</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-jersey-pbs-hd-njtv/7293" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11723_h15_ab.png">US: NJ PBS HD (NJTV)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-jersey-pbs-njtv/7292" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s11723_h15_ab.png">US: NJ PBS (NJTV)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="new-releases-on-demand/7742">US: New Releases On Demand</channel>
