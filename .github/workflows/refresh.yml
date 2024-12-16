@@ -41,6 +41,3 @@ jobs:
         git add -f guides/tvpassport.com.xml.gz
         git commit -m "Update xml"
         git push
-        git add -f guides/tvpassport.com.xml.gz
-        git commit -m "Update xml"
-        git push
