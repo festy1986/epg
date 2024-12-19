@@ -1415,5 +1415,5 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WMTWDT1.us" site_id="abc-wmtw-auburn-me/98" logo="https://github.com/festy1986/epg/blob/master/logos/abc%20portland.png?raw=true">US: ABC (WMTW) Auburn, ME</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPFODT1.us" site_id="fox-wpfo-portland-me/2694" logo="https://github.com/festy1986/epg/blob/master/logos/foxportlandextra.png?raw=true">US: FOX (WPFO) Portland, ME</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPXTDT1.us" site_id="cw-wpxt-portland-me/2695" logo="https://cdn.tvpassport.com/image/station/512x512/v2/s51306_h15_ac.png">US: CW (WPXT) Portland, ME</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amc/35317" logo="https://github.com/festy1986/epg/blob/master/logos/amc%20plus.png">US: AMC+</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="amc/35317" logo="https://github.com/festy1986/epg/blob/master/logos/amc%20plus.png?raw=true">US: AMC+</channel>
 </channels>
