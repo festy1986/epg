@@ -26,7 +26,7 @@ jobs:
     - name: npm grab epg
       run: |
           npm install
-          npm run grab -- --site=tvpassport.com --days=7 --maxConnections=50 --gzip --output=guides/tvpassport.com.xml
+          npm run grab -- --site=tvpassport.com --days=0 --maxConnections=50 --gzip --output=guides/tvpassport.com.xml
           
     - name: Commit changes
       run: |
